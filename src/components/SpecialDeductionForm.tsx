@@ -17,7 +17,7 @@ import {
   Baby, 
   Heart, 
   Home, 
-  Building, 
+  
   GraduationCap, 
   Stethoscope,
   ChevronDown,

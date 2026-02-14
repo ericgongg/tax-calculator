@@ -7,7 +7,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Badge } from '@/components/ui/badge';
 import { Separator } from '@/components/ui/separator';
 import { Alert, AlertDescription } from '@/components/ui/alert';
-import { Slider } from '@/components/ui/slider';
+
 import { SpecialDeductionForm } from '@/components/SpecialDeductionForm';
 import { 
   Calculator, 
@@ -22,7 +22,7 @@ import {
   Receipt,
   Building2,
   Sparkles,
-  ArrowRight
+  
 } from 'lucide-react';
 import { 
   calculateSeparateTax, 
